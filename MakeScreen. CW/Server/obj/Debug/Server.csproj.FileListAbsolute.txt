@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\MakeScreen. CW\Server\bin\Debug\Server.exe.config
+C:\Users\victor\source\repos\MakeScreen. CW\Server\bin\Debug\Server.exe
+C:\Users\victor\source\repos\MakeScreen. CW\Server\bin\Debug\Server.pdb
+C:\Users\victor\source\repos\MakeScreen. CW\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\MakeScreen. CW\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\MakeScreen. CW\Server\obj\Debug\Server.exe
+C:\Users\victor\source\repos\MakeScreen. CW\Server\obj\Debug\Server.pdb

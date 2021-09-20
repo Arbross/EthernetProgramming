@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\Server.exe.config
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\Server.exe
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\Server.pdb
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\DAL.dll
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\EntityFramework.dll
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\DAL.pdb
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\DAL.dll.config
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\EntityFramework.xml
+C:\Users\victor\source\repos\Sockets. Class Work\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Sockets. Class Work\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Sockets. Class Work\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\victor\source\repos\Sockets. Class Work\Server\obj\Debug\Server.exe
+C:\Users\victor\source\repos\Sockets. Class Work\Server\obj\Debug\Server.pdb
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victor\source\repos\Sockets. Class Work\Server\bin\Debug\EntityFramework.SqlServer.xml

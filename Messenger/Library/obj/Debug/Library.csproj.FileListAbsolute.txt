@@ -1,0 +1,10 @@
+C:\Users\victor\source\repos\Messenger\Library\bin\Debug\Library.dll
+C:\Users\victor\source\repos\Messenger\Library\bin\Debug\Library.pdb
+C:\Users\victor\source\repos\Messenger\Library\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\victor\source\repos\Messenger\Library\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\victor\source\repos\Messenger\Library\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\victor\source\repos\Messenger\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\Messenger\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Messenger\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\victor\source\repos\Messenger\Library\obj\Debug\Library.dll
+C:\Users\victor\source\repos\Messenger\Library\obj\Debug\Library.pdb

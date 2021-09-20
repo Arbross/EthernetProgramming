@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TtsOk+8OJdb4Ti/Ltw17yEOr1xGzF8+Y8COux1qf6KALwgcTmr5+Ty3LLKeGeE7lhMQLhGiGyIyeRfCKzeQEAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor\\source\\repos\\File Directory Serializers\\ConsoleApp1\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

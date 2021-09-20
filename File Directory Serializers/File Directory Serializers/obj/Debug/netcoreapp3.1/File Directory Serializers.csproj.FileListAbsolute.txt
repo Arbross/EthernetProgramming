@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\bin\Debug\netcoreapp3.1\File Directory Serializers.exe
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\bin\Debug\netcoreapp3.1\File Directory Serializers.deps.json
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\bin\Debug\netcoreapp3.1\File Directory Serializers.runtimeconfig.json
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\bin\Debug\netcoreapp3.1\File Directory Serializers.runtimeconfig.dev.json
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\bin\Debug\netcoreapp3.1\File Directory Serializers.dll
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\bin\Debug\netcoreapp3.1\File Directory Serializers.pdb
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\obj\Debug\netcoreapp3.1\File Directory Serializers.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\obj\Debug\netcoreapp3.1\File Directory Serializers.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\obj\Debug\netcoreapp3.1\File Directory Serializers.AssemblyInfo.cs
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\obj\Debug\netcoreapp3.1\File Directory Serializers.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\obj\Debug\netcoreapp3.1\File Directory Serializers.dll
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\obj\Debug\netcoreapp3.1\File Directory Serializers.pdb
+C:\Users\victor\source\repos\File Directory Serializers\File Directory Serializers\obj\Debug\netcoreapp3.1\File Directory Serializers.genruntimeconfig.cache

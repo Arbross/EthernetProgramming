@@ -1,0 +1,7 @@
+C:\Users\victor\source\repos\MakeScreen. CW\MakeScreen. CW\obj\Debug\MakeScreen. CW.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\MakeScreen. CW\MakeScreen. CW\obj\Debug\MakeScreen. CW.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\MakeScreen. CW\MakeScreen. CW\bin\Debug\MakeScreen.CW.exe.config
+C:\Users\victor\source\repos\MakeScreen. CW\MakeScreen. CW\bin\Debug\MakeScreen.CW.exe
+C:\Users\victor\source\repos\MakeScreen. CW\MakeScreen. CW\bin\Debug\MakeScreen.CW.pdb
+C:\Users\victor\source\repos\MakeScreen. CW\MakeScreen. CW\obj\Debug\MakeScreen.CW.exe
+C:\Users\victor\source\repos\MakeScreen. CW\MakeScreen. CW\obj\Debug\MakeScreen.CW.pdb
